@@ -37,6 +37,8 @@ const Nav = styled.nav`
   display: flex;
   gap: 26px;
   position: absolute;
+  left: 370px;
+  right: 370px;
 `;
 
 const NavLink = styled.a`
